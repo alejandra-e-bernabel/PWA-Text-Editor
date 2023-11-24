@@ -5,6 +5,10 @@
 
 This application is a text editor that runs in the browser, on and offline, and can be downloaded. The goal of this project was to work on PWA using different bundling tools and separating the client and server side. 
 
+![JATE Preview](image.png)
+![IndexesDB](image-1.png)
+![Service Worker Preview](image-2.png)
+
 ## Deployed Heroku Link
 https://alejandra-bernabel-text-editor-621b31fa2441.herokuapp.com/
 
